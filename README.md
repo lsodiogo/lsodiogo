@@ -1,6 +1,6 @@
 # Hi there, I'm Diogo 👋🏻
 
-### 📋 LANGUAGES
+### 👨🏻‍💻 LANGUAGES
 ![COBOL](https://img.shields.io/badge/cobol-blue?style=for-the-badge&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,5 +30,5 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 💬 SOCIAL
+### 💬 SOCIAL MEDIA
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogooslima/)
