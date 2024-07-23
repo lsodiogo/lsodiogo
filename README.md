@@ -1,6 +1,6 @@
 # Hi there, I'm Diogo 👋🏻
 
-![PROFILEVIEWS](https://komarev.com/ghpvc/?username=lsodiogo&color=blue&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
+![PROFILEVIEWS](https://komarev.com/ghpvc/?username=lsodiogo&color=blue&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 ### 👨🏻‍💻 LANGUAGES
 ![COBOL](https://img.shields.io/badge/cobol-blue?style=for-the-badge&logoColor=blue)
